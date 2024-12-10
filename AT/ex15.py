@@ -42,7 +42,7 @@ class BST:
 
 bst = BST()
 
-notas = [5.0, 1.8, 9.5, 6.0, 7.5, 9.0, 10.0]
+notas = [85,70,95,60,75,90,100]
 for nota in notas:
     bst.inserir(nota)
 
